@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+jsonpatch
+jsonpointer
+pdfplumber
+python-docx
+python-dotenv
+tiktoken
