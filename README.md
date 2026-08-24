@@ -1,4 +1,4 @@
-# ResumeIQ — AI-Powered Resume Analyser
+# AlignCV — AI-Powered Resume Analyser
 
 > Upload your resume, get actionable AI insights, ATS compatibility scores, and a tailored version matched to any job description — all processed in-memory, never stored.
 

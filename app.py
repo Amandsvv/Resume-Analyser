@@ -12,7 +12,7 @@ from utils.helpers import count_tokens, truncate_text
 
 # Page Config
 st.set_page_config(
-    page_title="ResumeIQ - AI Resume Analyzer",
+    page_title="AlignCV - AI Resume Analyzer",
     page_icon="✦",
     layout="wide",
     initial_sidebar_state="expanded",
